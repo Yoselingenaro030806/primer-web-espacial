@@ -1,0 +1,128 @@
+body{
+    background-attachment: fixed; background-image: url('/images/gif-cielo-de-hidrogeno.gif');
+        background-repeat: no-repeat;
+        background-size: 2000px 1000px;
+         background-position: center center;font-size: medium;
+         text-align: justify;
+         font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+         color: blanchedalmond;
+         background-color: black;
+}
+
+/*******************/
+img{
+    width: 330px;
+    border-radius: 40px;
+}
+
+/*******************/
+.espacio{
+    width: 320px;
+}
+/*******************/
+.title-astrobiologia{
+    font-size: 90px;
+    text-decoration: double;
+    text-align: center;
+    text-shadow: 4px 2px white;
+    color:darkkhaki;
+}
+.title-uni-text{
+    font-size: 90px;
+    text-decoration: double;
+    text-align: center;
+    text-shadow: 4px 2px whitesmoke;
+    color: aqua;
+}
+.title-star{
+    font-size: 90px;
+    text-decoration: double;
+    text-align: center;
+    text-shadow: 4px 2px whitesmoke;
+    color:darkorchid;
+}
+
+.img-astronautas{
+    width: 350px;
+    height: 250px;
+    border: 80px;
+    padding: 10px;
+    margin: 20px;
+}
+/*******************/
+.title-astro{
+    font-size: 40px;
+    color:lightsalmon;
+    text-align: left;
+}
+/*******************/
+.title-universo{
+    font-size: 40px;
+    color:greenyellow;
+}
+/*******************/
+.title-estrellas{
+    font-size: 40px;
+    color: lightgreen;
+}
+/*******************/
+.p-origen{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*******************/
+.title-web{
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Pattaya', sans-serif;
+    font-family: 'Rubik Dirt', cursive;
+color: lawngreen;
+    font-size: 180px;
+    text-align: center;
+font-weight: 200px;
+text-shadow: 10px 5px wheat;
+}
+/*******************/
+.title-imagen{
+    text-align: center;
+}
+.Top{
+    color:lightgreen;
+    text-align: center;
+font-size:80px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-shadow: 4px  2px whitesmoke;
+}
+.listas-top{
+    text-align:left;
+}
+.misiones{
+    color:darkturquoise;
+    font-size: 80px;
+    font-family: 'Alegreya Sans SC', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'Oswald', sans-serif;
+font-family: 'Pattaya', sans-serif;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Rubik Dirt', cursive;
+text-align: center;
+text-shadow: 8px 4px white;
+}
+
+.espaciales-mision{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.questions-time{
+    font-size: 90px;
+    text-decoration: double;
+    text-align: center;
+    text-shadow: 4px 2px white;
+    color:fuchsia;
+}
+
+/*selector{
+    propiedad : valor;
+*/
