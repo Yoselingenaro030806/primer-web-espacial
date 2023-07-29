@@ -5,8 +5,7 @@ body{
          background-position: center center;font-size: medium;
          text-align: justify;
          font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
-         color: blanchedalmond;
+color:aqua;
          background-color: black;
 }
 
@@ -69,6 +68,8 @@ img{
 /*******************/
 .p-origen{
     font-family: Arial, Helvetica, sans-serif;
+    color: ghostwhite;
+    text-align: justify;
 }
 /*******************/
 .title-web{
@@ -96,6 +97,7 @@ text-shadow: 4px  2px whitesmoke;
 }
 .listas-top{
     text-align:left;
+    color: bisque;
 }
 .misiones{
     color:darkturquoise;
@@ -113,6 +115,7 @@ text-shadow: 8px 4px white;
 .espaciales-mision{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
+    color: bisque;
 }
 
 .questions-time{
@@ -126,3 +129,52 @@ text-shadow: 8px 4px white;
 /*selector{
     propiedad : valor;
 */
+
+.flip-scale-up-hor {
+	-webkit-animation: flip-scale-up-hor 0.5s linear both;
+	        animation: flip-scale-up-hor 0.5s linear both;
+}
+
+.parrafo-uno{
+    color:ghostwhite;
+    text-align: justify;
+}
+
+.accordion-body{
+    text-align: justify;
+    color:white;
+    background-color:black;
+}
+
+.parrafo-estrellas{
+    text-align: justify;
+    color: ghostwhite;
+}
+
+.formulario{
+    color: white;
+    text-align: center;
+}
+
+.apolo-8{
+    width: 830px;
+    border-radius: 40px;
+    text-align: center;
+    padding: 90px;
+    margin: auto;
+    position: absolute;
+}
+
+.apolo-11{
+    width: 830px;
+    border-radius: 40px;
+    text-align: center;
+    padding: 90px;
+}
+
+.curiosity{
+    width: 830px;
+    border-radius: 40px;
+    text-align: center;
+    padding: 90px;
+}
